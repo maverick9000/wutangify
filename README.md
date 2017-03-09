@@ -26,3 +26,7 @@ Or install it yourself as:
     require 'wutangify'
     Wutangify.unlamify('Maverick')
     Insane Wanderer
+
+## Download
+
+https://rubygems.org/gems/wutangify
