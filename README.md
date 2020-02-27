@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/maverick9000/wutangify.svg?branch=master)](https://travis-ci.org/maverick9000/wutangify) [![Coverage Status](https://img.shields.io/coveralls/maverick9000/wutangify.svg)](https://coveralls.io/r/maverick9000/wutangify?branch=master) [![Gem Version](https://badge.fury.io/rb/wutangify.svg)](http://badge.fury.io/rb/wutangify)
-
 wutangify
 =========
 
