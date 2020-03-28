@@ -6,8 +6,8 @@ require 'wutangify/version'
 Gem::Specification.new do |spec|
   spec.name          = "wutangify"
   spec.version       = Wutangify::VERSION
-  spec.authors       = ["Maverick"]
-  spec.email         = ["maverick6688@gmail.com"]
+  spec.authors       = ["Maverick Stoklosa"]
+  spec.email         = ["stoklomav@gmail.com"]
   spec.summary       = %q{Turn an ordinary name into a Wu-Tang Clan name.}
   spec.description   = %q{Sure you could keep the lame name your parents gave you but with the wutangify gem you don't have to.  You can use this gem to make some sweet ass user names to populate your website and whatnot.}
   spec.homepage      = ""
